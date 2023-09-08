@@ -23,13 +23,6 @@
 }
 
 body{
-    /*background-image: url(assets/bg-mobile.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;*/
-
-    /* tudo em uma short hand ou atalho*/
-     /*  background: color(nao tem) url repeat position/size */
     background: var(--bg-url) no-repeat top center/cover;
     height: 100vh;
 }
